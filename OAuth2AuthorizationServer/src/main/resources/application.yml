@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: OAuth2AuthorizationServer
+
+server:
+  port: 9000
