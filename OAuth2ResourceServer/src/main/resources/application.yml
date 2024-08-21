@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: OAuth2ResourceServer
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:9000
+
+server:
+  port: 8080

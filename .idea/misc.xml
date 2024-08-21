@@ -5,13 +5,20 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/OAuth2AuthorizationServer/pom.xml" />
+        <option value="$PROJECT_DIR$/OAuth2ResourceServer/pom.xml" />
+        <option value="$USER_HOME$/OAuth2ResourceServer/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/OAuth2ResourceServer/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="PDMPlugin">
     <option name="skipTestSources" value="false" />
   </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/OAuth2ResourceServer/out" />
   </component>
 </project>
